@@ -5,7 +5,7 @@
     <fontcolor name="private"/>
     <fontcolor foreColor="ffe6db74" name="string"/>
     <fontcolor bgColor="red" name="deprecated" strikeThrough="darkGray"/>
-    <fontcolor name="error" waveUnderlined="red"/>
+    <fontcolor bgColor="ff3f1c18" name="error"/>
     <fontcolor name="interface"/>
     <fontcolor foreColor="pink" name="entity-reference"/>
     <fontcolor name="operator"/>
