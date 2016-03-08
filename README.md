@@ -22,8 +22,9 @@ HEX                                             | COLOUR                | USAGE
 [e6db74](http://www.color-hex.com/color/e6db74) | Straw Yellow          | Search background, Strings, labels, document headers
                                                 |                       |
 [2a2815](http://www.color-hex.com/color/2a2815) | [Yellow/Background Mix](http://meyerweb.com/eric/tools/color-blend/#E6DB74:23241E:10:hex) | Warnings
-[3b4721](http://www.color-hex.com/color/3b4721) | [Lime Green/Background Mix](http://meyerweb.com/eric/tools/color-blend/#3B4721:23241E:10:hex) | Diff - Added Line
-[2f4544](http://www.color-hex.com/color/2f4544) | [Blue/Background Mix](http://meyerweb.com/eric/tools/color-blend/#2F4544:23241E:10:hex) | Diff - Change
+[333923](http://www.color-hex.com/color/333923) | [Lime Green/Background Mix](http://meyerweb.com/eric/tools/color-blend/#A6E22E:272822:10:hex) | Diff - Added Line
+[2D3835](http://www.color-hex.com/color/2D3835) | [Blue/Background Mix](http://meyerweb.com/eric/tools/color-blend/#2F4544:272822:10:hex) | Diff - Change
+[3A2829](http://www.color-hex.com/color/3A2829) | [Pink/Background Mix](http://meyerweb.com/eric/tools/color-blend/#F92672:272822:10:hex) | Diff - Removed
                                                 |                       |
 [46830c](http://www.color-hex.com/color/46830c) | Forest Green          | Difference - Added Text BG
 [2d3e19](http://www.color-hex.com/color/2d3e19) |                       | Debugging current caret

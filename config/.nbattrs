@@ -2,6 +2,7 @@
 <!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
 <attributes version="1.0">
     <fileobject name="">
+        <attr name="Keymaps\currentKeymap" stringvalue="NetBeans"/>
         <attr name="Services\DiffProviders\org-netbeans-modules-diff-builtin-provider-BuiltInDiffProvider.settings\position" intvalue="100"/>
         <attr name="Spellcheckers\GSP\Hidden" boolvalue="false"/>
         <attr name="Spellcheckers\HTML\Hidden" boolvalue="false"/>
